@@ -7,6 +7,12 @@
 
 ## Литра
 1. «Стартап. Настольная книга основателя». Авторы: Стив Бланк и Боб Дорф.
+2. Думай медленно… Решай быстро
+https://www.litres.ru/book/daniel-kaneman/dumay-medlenno-reshay-bystro-6444517/
+3. Шум. Несовершенство человеческих суждений
+https://www.litres.ru/book/daniel-kaneman/shum-nesovershenstvo-chelovecheskih-suzhdeniy-66847643/
+4. Hooked. На крючке. Как создавать продукты, формирующие привычки
+https://www.litres.ru/book/nir-eyal/hooked-na-kruchke-kak-sozdavat-produkty-formiruuschie-privychki-7906348/
 
 
 ## CustDev:
@@ -21,3 +27,8 @@
 ## Книги Даниэля Канемана
 https://www.litres.ru/author/daniel-kaneman/
 
+## Эмоции и принятие решений
+1. https://www.forbes.ru/forbeslife/514259-vzryv-mozga-kak-emocii-vliaut-na-nasi-resenia-i-pocemu-vazno-naucit-sa-imi-upravlat
+2. https://scr.hse.ru/news/96133388.html
+3. https://sky.pro/wiki/profession/vliyanie-subuektivnyh-faktorov-na-prinyatie-reshenij/
+4. https://sky.pro/wiki/profession/vliyanie-emocij-na-prinyatie-reshenij/
