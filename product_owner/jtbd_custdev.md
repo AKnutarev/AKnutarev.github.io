@@ -1,4 +1,21 @@
+## Яндекс борд
+https://boards.yandex.ru/whiteboard/?hash=e96d2c6570f4b0b0ae64fbb11217e80f
+
+## UX-задачи на основе анализа конкурентов
+https://oborot.ru/blogs/kak-my-reshaem-sobstvennye-ux-zadachi-na-osnove-analiza-konkurentov-i201021.html
+
+## Модель Кано
+https://vc.ru/design/578714-model-kano-instrukciya-po-primeneniyu
+
+## Цикл Колба
+https://huntflow.media/chto-takoe-tsikl-kolba/
+ 
+## Онлайн-сервисы для проведения опросов
+1. “Яндекс.Взгляд” https://surveys.yandex.ru/landing
+2. “Анкетолог” https://anketolog.ru/
+
 ## Жизненный цикл решения каждой задачи
+https://stepik.org/course/224442/syllabus
 1. Первая мысль 
 2. Пассивное или неосознаваемое желание
 3. Активное желание (осознанное) и поиск решения 
@@ -6,6 +23,20 @@
 5. Покупка 
 6. Опыт потребления
 7. Переключение на другое решение 
+
+## Формулирование задач
+https://stepik.org/course/224442/syllabus
+Рекомендация | Как не надо | Как надо
+
+Используйте функциональное определение для работы. Такой работой проще управлять | Быть хорошим отцом | Подготовить ребенка к школе
+
+Не определяйте работу слишком узко. Попробуйте выразить работу, которую собираетесь решать, целиком | Получить зарубежный оффер | Начать работать в другой стране
+
+Не называйте конкретное решение в формулировке работы. Решения для общей работы могут быть разные | Собрать генеалогическое древо | Оформить знания о родословной
+
+Не включайте в определение работы запросы вида «быстро», «четко», «дешево». Это метрики (потребности, needs) клиентов, которые лучше измерять отдельно | Быстро добраться до аэропорта | Добраться до аэропорта
+
+Избегайте составных частей с И, ИЛИ. Работа должна звучать достаточно конкретно и не терять сути | Заполнить и сохранить заметку | Добавить заметку
 
 ## Ссылки на источники:
 1. https://vc.ru/marketing/73830-jobs-to-be-done-ili-vse-chto-sleduet-znat-o-zhelaniyah-polzovatelei
@@ -22,10 +53,14 @@ https://www.litres.ru/book/daniel-kaneman/dumay-medlenno-reshay-bystro-6444517/
 https://www.litres.ru/book/daniel-kaneman/shum-nesovershenstvo-chelovecheskih-suzhdeniy-66847643/
 4. Hooked. На крючке. Как создавать продукты, формирующие привычки
 https://www.litres.ru/book/nir-eyal/hooked-na-kruchke-kak-sozdavat-produkty-formiruuschie-privychki-7906348/
-
+5. Клейтон Кристенсен
+https://www.litres.ru/author/kleyton-kristensen/
+6. Карен Диллон
+https://www.litres.ru/author/karen-dillon/
 
 ## CustDev:
 1. https://direct.yandex.ru/base/articles/customer-development
+2. https://rb.ru/list/21-servis-dlya-effektivnogo-kastdeva/
 
 ## Aha-moment:
 1. https://mangogames.ru/blog/aha-moment-kak-priblizit-momenty-ozareniya-i-uderzhat-auditoriyu
