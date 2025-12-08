@@ -1,8 +1,32 @@
 ## Яндекс борд
 https://boards.yandex.ru/whiteboard/?hash=e96d2c6570f4b0b0ae64fbb11217e80f
 
-## UX-задачи на основе анализа конкурентов
+## Статьи
+1. От идеи до результата: как оценить, нужна ли пользователям новая фича (JTBD и TARS)
+https://habr.com/ru/articles/892246/
+
+2. UX-задачи на основе анализа конкурентов
 https://oborot.ru/blogs/kak-my-reshaem-sobstvennye-ux-zadachi-na-osnove-analiza-konkurentov-i201021.html
+
+3. Кейс mango.rocks: результаты Jobs-to-be-Done-интервью стали триггером к изменениям в бизнесе
+https://www.it-agency.ru/projects/cases/mango-rocks-jobs-to-be-done-interview/
+
+4. Примеры применения Jobs To Be Done. Хорошие примеры
+https://www.insales.ru/blogs/university/koncepciya-jobs-to-be-done-chto-eto-takoe-i-kak-ee-ispolzovat
+
+5. Как продвигать продукт с помощью Jobs To Be Done
+https://secrets.tbank.ru/biznes-s-nulya/jobs-to-be-done/
+
+6. Эмоции и принятие решений
+1) https://www.forbes.ru/forbeslife/514259-vzryv-mozga-kak-emocii-vliaut-na-nasi-resenia-i-pocemu-vazno-naucit-sa-imi-upravlat
+2) https://scr.hse.ru/news/96133388.html
+3) https://sky.pro/wiki/profession/vliyanie-subuektivnyh-faktorov-na-prinyatie-reshenij/
+4) https://sky.pro/wiki/profession/vliyanie-emocij-na-prinyatie-reshenij/
+
+7. Как снизить стоимость заявки производственной фабрики в 10 раз за счёт методики JTBD, которой не пользуются 95% бизнесов
+https://habr.com/ru/articles/762340/
+
+
 
 ## Модель Кано
 https://vc.ru/design/578714-model-kano-instrukciya-po-primeneniyu
@@ -71,8 +95,3 @@ https://www.litres.ru/author/karen-dillon/
 ## Книги Даниэля Канемана
 https://www.litres.ru/author/daniel-kaneman/
 
-## Эмоции и принятие решений
-1. https://www.forbes.ru/forbeslife/514259-vzryv-mozga-kak-emocii-vliaut-na-nasi-resenia-i-pocemu-vazno-naucit-sa-imi-upravlat
-2. https://scr.hse.ru/news/96133388.html
-3. https://sky.pro/wiki/profession/vliyanie-subuektivnyh-faktorov-na-prinyatie-reshenij/
-4. https://sky.pro/wiki/profession/vliyanie-emocij-na-prinyatie-reshenij/
