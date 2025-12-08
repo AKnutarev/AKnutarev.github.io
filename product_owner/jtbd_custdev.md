@@ -26,8 +26,6 @@ https://secrets.tbank.ru/biznes-s-nulya/jobs-to-be-done/
 7. Как снизить стоимость заявки производственной фабрики в 10 раз за счёт методики JTBD, которой не пользуются 95% бизнесов
 https://habr.com/ru/articles/762340/
 
-
-
 ## Модель Кано
 https://vc.ru/design/578714-model-kano-instrukciya-po-primeneniyu
 
